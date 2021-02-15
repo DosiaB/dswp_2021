@@ -22,7 +22,7 @@
  A tutaj podpowiedz, czym zamowalam sie dotychczas : ![podpowiedz](https://storage.opinieouczelniach.pl/source/1/OxpndbQUYaOVKe2X8jFZwq6XL7Aitd-k.jpg)
  
  A tutaj kawalatek kodu Python z zajec (zadanie z listami na przykladzie kalendarza):
- 
+    py
  pl = {}
 #pl = dict({'styczen': 1, 'luty': 2, 'marzec': 3, 'kwiecien': 4, 'maj': 5, 'czerwiec': 6, 'lipiec': 7, 'sierpien': 8, 'wrzesien': 9, 'pazdziernik': 10, 'listopad': 11, 'grudzien': 12}) 
 pl = dict({1: 'styczen', 2 : 'luty', 3 :'marzec', 4: 'kwiecien', 5: 'maj', 6: 'czerwiec', 7: 'lipiec',8: 'sierpien', 9: 'wrzesien', 10:'pazdziernik', 11: 'listopad', 12:'grudzien'}) 
@@ -38,7 +38,7 @@ months = ({'pl': pl, 'en': en})
 print(months)
 print('------------------------------------------------')
 print(months['pl'][4])
- 
+   
  
  
  > "Mimo, ze odbywam zajecia z opoznieniem, dam rade. "
